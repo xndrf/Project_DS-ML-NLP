@@ -1,20 +1,22 @@
 # <div align="center">📊 Data Science Portfolio</div>
 
-### <div align="center">Проекты, выполненные в ходе обучения в SkillFactory</div>
-
-<br>
-
-<div align="center">
-  
-![Data Science](https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Data_Science.jpg)
-
-*Коллекция проектов по анализу данных и машинному обучению*
-
-</div>
-
 ## 🚀 О проектах
 
 Все проекты выполнены на русском языке в формате Jupyter Notebook (`.ipynb`) и содержат готовые решения с подробными объяснениями. Каждый проект представляет собой законченное исследование с применением современных методов Data Science.
+
+---
+
+## 🛠️ Используемые технологии
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
 
 ---
 
@@ -164,27 +166,3 @@ Data Understanding - анализ данных вакансий и работо�
 </div>
 
 ---
-
-## 📁 Структура репозитория
-
-<details>
-<summary><b>📂 Нажмите для просмотра структуры</b></summary>
-
-```
-Data_Science_Project/
-├── Research_hh(Part_1)/
-│ ├── Project-1. Ноутбук-шаблон.ipynb
-│ └── data/ # Данные резюме HeadHunter
-├── Research_hh(Part_2)/
-│ ├── Project_2_Ноутбук_шаблон.ipynb
-│ └── data/ # Данные вакансий HeadHunter
-├── Booking_ML/
-│ ├── kg.ipynb
-│ └── data/ # Данные отелей Booking
-├── Predicting_a_Biological_Response/
-│ ├── ноутбук проекта.ipynb
-│ └── data/ # Данные Kaggle competition
-└── Bank_deposit/
-├── ноутбук проекта.ipynb
-└── data/ # Банковские данные клиентов
-```
