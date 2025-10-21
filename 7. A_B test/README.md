@@ -4,7 +4,7 @@
 
 ![ABtest](https://i.ytimg.com/vi/yAs8Y1P4vy4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gNSg-MA8=&rs=AOn4CLBV1E2npcQ93h_K3zaKk_xOnkjG_A)
 
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/xndrf/Data_Science_Project/blob/master/8.%20Customer%20segmentation/customer.ipynb)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/xndrf/Data_Science_Project/blob/master/7.%20A_B%20test/ds_prod_4_ex_7.ipynb)
 
 </div>
 
@@ -70,10 +70,6 @@
 - Тест Шапиро-Уилка подтвердил нормальность распределений (p-value A: 0.25, B: 0.09)
 - T-тест: p-value = 0.0
 - **Вывод**: Статистически значимые различия в среднем чеке между группами
-
-**Доверительные интервалы среднего чека (95%)**:
-- Группа A: 809,533,648 - 809,852,053 руб.
-- Группа B: 885,644,239 - 885,870,070 руб.
 
 
 ## Выводы и рекомендации
