@@ -1,6 +1,6 @@
 # Анализ вакансий из HeadHunter #
 
-[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/xndrf/Data_Science_Project/blob/master/2.%202.%20Research_hh(Part_2)/Project_2_Ноутбук_шаблон.ipynb)
+[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/xndrf/Data_Science_Project/blob/master/2.%20Research_hh(Part_2)/Project_2_Ноутбук_шаблон.ipynb)
 
 ## (Подгрузка новых данных, уточнение анализа) ##
 
