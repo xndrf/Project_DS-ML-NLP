@@ -5,7 +5,6 @@
 ![Customer Segmentation](https://blog.converted.in/hubfs/customer%20segmentation%20strategy.png)
 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/xndrf/Data_Science_Project/blob/master/8.%20Customer%20segmentation/customer.ipynb)
-![Clusters](https://img.shields.io/badge/Clusters-4-blue?style=for-the-badge)
 
 *Сегментация клиентов на основе RFM-анализа и машинного обучения*
 

@@ -6,6 +6,7 @@
 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/xndrf/Data_Science_Project/blob/master/8.%20Customer%20segmentation/customer.ipynb)
 
+</div>
 
 
 ## Описание проекта
