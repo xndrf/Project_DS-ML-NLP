@@ -1,7 +1,12 @@
 # Проект 4.  Классификация клиентов банка
 
 
-<center> <img src=https://github.com/xndrf/Data_Science_Project/blob/master/Bank_deposit/png/readpi.jpg width=800 height=500></center>
+<center> <img src=https://github.com/xndrf/Data_Science_Project/blob/master/4.%20Bank_deposit/png/readpi.jpg width=800 height=500></center>
+
+
+
+[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/xndrf/Data_Science_Project/blob/master/4.%20Bank_deposit/Project_4.ipynb)
+
 
 ## Проблематика проекта
 

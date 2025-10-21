@@ -1,14 +1,16 @@
 # Проект 3.  Booking reviews (Прогнозирование рейтинга отеля на Booking)
 
 
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competition-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/sf-booking/overview)
+[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/xndrf/Data_Science_Project/blob/master/5.%20Booking_ML/kg.ipynb)
+
+
 ## Проблематика проекта
 Нечестные отели, которые накручивают себе рейтинг.
 
 ## Решение проблемы:
 Построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель играет нечестно, и его стоит проверить.
-
-## Ссылка на соревнование
-https://www.kaggle.com/competitions/sf-booking/overview
 
 ## Список используемых данных
 hotels_train.csv - набор данных для обучения
