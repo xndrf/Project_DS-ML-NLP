@@ -1,4 +1,4 @@
-# Проект 3.  Booking reviews (Прогнозирование рейтинга отеля на Booking)
+# Booking reviews (Прогнозирование рейтинга отеля на Booking)
 
 
 
