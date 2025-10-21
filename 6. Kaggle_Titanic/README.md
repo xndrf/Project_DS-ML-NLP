@@ -2,11 +2,13 @@
 
 <div align="center">
 
-![Titanic](https://i.imgur.com/MqPnUo3.jpeg)
-
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/titanic)
 [![Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/xndrf/Data_Science_Project/blob/master/6.%20Kaggle_Titanic/titanic.ipynb)
 ![Accuracy](https://img.shields.io/badge/Accuracy-0.8395-brightgreen?style=for-the-badge)
+
+
+![Titanic](https://i.imgur.com/MqPnUo3.jpeg)
+
 
 *Классика DS - прогнозирование выживаемости пассажиров Титаника*
 

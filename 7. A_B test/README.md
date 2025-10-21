@@ -2,9 +2,11 @@
 
 <div align="center">
 
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/xndrf/Data_Science_Project/blob/master/7.%20A_B%20test/ds_prod_4_ex_7.ipynb)
+
 ![ABtest](https://i.ytimg.com/vi/yAs8Y1P4vy4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gNSg-MA8=&rs=AOn4CLBV1E2npcQ93h_K3zaKk_xOnkjG_A)
 
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/xndrf/Data_Science_Project/blob/master/7.%20A_B%20test/ds_prod_4_ex_7.ipynb)
+
 
 </div>
 
