@@ -1,4 +1,4 @@
-# 🏠 Агенство недвижимости (Housing Cost Prediction)
+# Агенство недвижимости (Housing Cost Prediction)
 
 ## Цель проекта
 
@@ -72,10 +72,10 @@
 ### 5. Результаты
 **Качество финальной модели (стекинг XGBoost + CatBoost + LightGBM + Ridge):**
 - **$R^2$=0,9364** (в логарифмической шкале) — объясняет >93% вариации целевой переменной;
-- **$R^$2$=0,8992** (в исходной шкале) — устойчивость после обратного преобразования;
+- **$R^2$=0,8992** (в исходной шкале) — устойчивость после обратного преобразования;
 - **RMSLE = 0,2169** — контроль относительных ошибок;
 - **MAE ≈ 73 693** (в абсолютных значениях);
-- **MAPE = 14,66%** — приемлемый уровень для ценовых задач.
+- **MAPE = 14,66%**.
 
 ### Ключевые достижения:
 - логарифмирование таргета снизило гетероскедастичность;
@@ -84,7 +84,7 @@
 
 ---
 
-### 🏆 Финальная модель
+### Финальная модель
 
 **Окончательной моделью проекта является ансамбль моделей типа Stacking**, сохранённый в файле:
 
@@ -105,7 +105,7 @@ models/final_meta_model.pkl
 
 ---
 
-## 🖥 Веб‑приложение
+## Веб‑приложение
 Реализован интерактивный веб-интерфейс Streamlit для инференса модели, включающий контроль входных признаков, описания параметров и механизм логирования предсказаний»
 Как запустить Streamlit (`app.py`)
 
@@ -114,7 +114,7 @@ models/final_meta_model.pkl
 3. Перейти в папку проекта (Например cd "D:\code\IDE_XNDRF\Data_Science_Project\10. Housing_Cost_Prediction")
 4. Выполняем запуск python -m streamlit run app.py
 5. Открывается окно браузера и мы делаем предсказания
-![Dashboard demo](https://github.com/itbias/Projects/blob/main/terminal)
+![Dashboard demo](https://github.com/xndrf/Data_Science_Project/blob/master/10.%20Housing_Cost_Prediction/image/terminal.gif)
 
 Функциональные возможности:
 
@@ -123,7 +123,7 @@ models/final_meta_model.pkl
 * логирование всех предсказаний в CSV‑файл;
 * обработка ошибок и контроль корректности данных.
 
-![Dashboard demo](https://github.com/itbias/Projects/blob/main/streamlit)
+![Dashboard demo](https://github.com/xndrf/Data_Science_Project/blob/master/10.%20Housing_Cost_Prediction/image/lokal.gif)
 
 Инференс выполняется через модуль:
 
@@ -133,7 +133,7 @@ src/predict.py
 
 ---
 
-## 🐳 Использование Docker
+## Использование Docker
 
 <table style="width: 100%; border: none; border-collapse: collapse; margin: 15px 0;">
   <tr>
@@ -169,7 +169,7 @@ docker --version
 
 ---
 
-### 2️⃣ Получение проекта
+### Получение проекта
 
 #### Качаем GitHub
 
@@ -180,7 +180,7 @@ cd housing-cost-prediction
 
 ---
 
-### 3️⃣ Сборка Docker‑образа
+### Сборка Docker‑образа
 
 ```bash
 docker build -t housing-price-app .
@@ -195,7 +195,7 @@ docker build -t housing-price-app .
 
 ---
 
-### 4️⃣ Запуск приложения
+### Запуск приложения
 
 ```bash
 docker run -p 8501:8501 housing-price-app
@@ -203,11 +203,11 @@ docker run -p 8501:8501 housing-price-app
 
 После запуска приложение доступно по адресу:
 
-👉 [http://localhost:8501](http://localhost:8501)
+[http://localhost:8501](http://localhost:8501)
 
 
 ---
-## 📂 Структура проекта
+## Структура проекта
 
 ```
 
@@ -232,7 +232,7 @@ docker run -p 8501:8501 housing-price-app
 
 ---
 
-## ✅ Рекомендации для развития
+## Рекомендации для развития
 
 
 1. Доработка данных:

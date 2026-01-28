@@ -15,7 +15,7 @@ _ARTIFACTS = None
 
 def _get_artifacts():
     """
-    Лениво загружает и кэширует артефакты модели.
+    загружает и кэширует артефакты модели.
     Используется для предотвращения повторной загрузки
     тяжелых .pkl файлов при каждом запросе.
     """
@@ -34,16 +34,6 @@ def predict_new_data(input_df: pd.DataFrame) -> float:
     2. Отбор признаков
     3. Предсказания базовых моделей
     4. Meta-предсказание итоговой стоимости
-
-    Parameters
-    ----------
-    input_df : pd.DataFrame
-        Входные признаки одного объекта недвижимости
-
-    Returns
-    -------
-    float
-        Прогнозируемая стоимость недвижимости
     """
 
     preprocessor, selected_features, base_models, meta_model = _get_artifacts()

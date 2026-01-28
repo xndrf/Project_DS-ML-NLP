@@ -10,11 +10,6 @@ sys.modules['__main__.BinaryEncoderWrapper'] = BinaryEncoderWrapper
 
 
 def get_project_root() -> Path:
-    """
-    Корень проекта:
-    - Docker / PROD: через переменную окружения PROJECT_ROOT
-    - Локально: на два уровня выше текущего файла
-    """
     env_path = os.getenv("PROJECT_ROOT")
     if env_path:
         return Path(env_path).resolve()
