@@ -42,7 +42,7 @@
     </td>
     <td style="vertical-align: top; padding: 10px; text-align: center; width: 5 Newton;">
       <img 
-        src="image/read.jpg"
+        src="image/read_1.jpg"
         alt="Иллюстрация процесса"
         style="max-width: 50%; height: auto; border-radius: 8px;"
       >
