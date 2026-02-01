@@ -1,5 +1,13 @@
 # Агенство недвижимости (Housing Cost Prediction)
 
+<div align="center">
+
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/xndrf/Data_Science_Project/blob/master/10.%20Housing_Cost_Prediction/model_building.ipynb)
+
+</div>
+
+# 
+
 ## Цель проекта
 
 **Разработка модели машинного обучения и программного сервиса для точного прогнозирования рыночной стоимости объектов жилой недвижимости. на основе истории предложений.**
