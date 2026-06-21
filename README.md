@@ -27,7 +27,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![StatsModels](https://img.shields.io/badge/StatsModels-3776AB?style=for-the-badge&logo=statsmodels&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-3776AB?style=for-the-badge&logo=scipy&logoColor=white)
-
+![]
 </div>
 
 ---
