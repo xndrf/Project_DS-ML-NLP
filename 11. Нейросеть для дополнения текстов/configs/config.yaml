@@ -1,0 +1,39 @@
+# Параметры данных
+data:
+  max_texts_count: 1000000
+  train_split: 0.8
+  val_split: 0.1
+  test_split: 0.1
+  random_state: 42
+
+# Параметры токенизации
+tokenization:
+  max_len: 64
+  model_name: "gpt2"
+
+# Параметры LSTM модели
+lstm:
+  embed_dim: 256
+  hidden_dim: 512
+  num_layers: 2
+  dropout: 0.3
+  learning_rate: 0.001
+  weight_decay: 0.01
+
+# Параметры обучения
+training:
+  batch_size: 128
+  num_epochs: 10
+  clip_grad_norm: 1.0
+
+# Параметры генерации
+generation:
+  temperature: 0.7
+  top_k: 50
+  top_p: 0.9
+  max_length: 30
+
+# Параметры оценки
+evaluation:
+  rouge_examples: 50
+  test_examples: 5
